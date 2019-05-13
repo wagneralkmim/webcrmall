@@ -25,7 +25,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="form-group">
-					{!! Form::label('full_name', '* Nome completo') !!}  
+					{!! Form::label('full_name', '* Nome completo') !!} 
 					{!! Form::text('full_name', null, ['class'=>'form-control']) !!}
 				</div>	
 			</div>
